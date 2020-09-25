@@ -1,5 +1,4 @@
 # practise-devops
-Created files in git (AWS EC2) and these files were pushed from local repo to github repo using CLI.
-
+	Created files in local git repo (using AWS CLI) and these files were pushed from local repo to github repo.
 
  
